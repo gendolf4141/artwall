@@ -7,7 +7,6 @@ from typing import List
 from joblib import Parallel, delayed
 
 WAY_RUN_EXCEL: str = r"C:\Users\Public\Documents\artwall\catalog.xlsx"
-WAY_LOG_EXCEL: str = r"C:\Users\Public\Documents\artwall\artwall.xlsx"
 WAY_PROJECT: str = r'C:\Users\Public\Documents\artwall'
 
 
